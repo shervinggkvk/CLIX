@@ -1,7 +1,7 @@
 {
   "shervin": {
     "password": "1234",
-    "expiry": "2025-12-31",
+    "expiry": "2027-12-31",
     "name": "Shervin T.",
     "max_sessions": 1,
     "active_ids": []
