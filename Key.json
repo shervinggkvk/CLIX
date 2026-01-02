@@ -5,10 +5,10 @@
     "name": "Shervin T.",
     "max_sessions": 1,
     "active_ids": []
-  },
+  }
   "dns": {
     "password": "1234",
-    "expiry": "2025-10-12",
+    "expiry": "2028-10-12",
     "name": "Test User 1",
     "max_sessions": 2,
     "active_ids": []
